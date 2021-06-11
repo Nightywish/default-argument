@@ -1,0 +1,3 @@
+﻿  DA.cpp
+C:\Users\Lucas\Desktop\C++ project location\default-argument\DA\DA\DA.cpp(28,15): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  DA.vcxproj -> C:\Users\Lucas\Desktop\C++ project location\default-argument\DA\Debug\DA.exe
